@@ -3,5 +3,20 @@
 }
 .bordar{
   border-left: 3px solid black;
-  padding: 5px;
+  padding: 10px;
+}
+.spis{
+  padding: 4px;
+  margin-top: 5px;
+}
+.padonglife{
+  padding-left: 10px;
+}
+.pocshgen{
+  position:relative;
+  bottom:-90px;
+  height: 130px;
+  text-align: center;
+
+
 }
